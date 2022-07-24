@@ -1,0 +1,24 @@
+{
+  "name": "gulp_less",
+  "version": "1.0.0",
+  "description": "npx gulp less",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.7",
+    "browser-sync": "^2.27.10",
+    "css-declaration-sorter": "^6.3.0",
+    "fg-loadcss": "^3.1.0",
+    "gulp": "^4.0.2",
+    "gulp-less": "^5.0.0",
+    "gulp-notify": "^4.0.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-postcss": "^9.0.1",
+    "gulp-replace": "^1.1.3",
+    "less-plugin-autoprefix": "^2.0.0"
+  }
+}
